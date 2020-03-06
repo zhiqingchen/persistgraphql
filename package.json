@@ -46,7 +46,7 @@
     "es6-promise": "^4.1.0",
     "fetch-mock": "^5.10.0",
     "isomorphic-fetch": "^2.2.1",
-    "mocha": "^3.3.0",
+    "mocha": "^7.1.0",
     "source-map-support": "^0.4.15",
     "tslint": "^5.1.0",
     "typescript": "^2.3.1"
